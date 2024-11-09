@@ -10,9 +10,8 @@ Sou **David Fialho de França**, estudante de **Ensino Médio** e atualmente faz
 - **Curso Técnico**: Informática
 - **Escola**: [IFCE campus Maranguape](#)
 - **Interesses**: Programação, desenvolvimento web, inteligência artificial, ciência de dados! 💻
-  
-
-## 📖 Habilidades e Conhecimentos
+  #
+📖 Habilidades e Conhecimentos
 
 - **Linguagens de Programação**:
   - Python 🐍
@@ -23,11 +22,5 @@ Sou **David Fialho de França**, estudante de **Ensino Médio** e atualmente faz
   - Git e GitHub 🧑‍💻
   - VS Code 🖥️
   - MySQL 🗃️
-
-## 📅 Curiosidades
-
-- **Idade**: 16 anos
-- **Filme favorito**: **Matrix** (Amante da ficção científica! 🚀)
-- **Jogo favorito**: **Brawl Stars**
 
 ## 🎉 **Obrigado por visitar meu perfil!** 🎉
